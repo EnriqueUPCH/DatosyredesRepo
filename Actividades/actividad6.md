@@ -1,2 +1,2 @@
 Actividad 6
-![Logo Cayetano]([https://example.com/ruta/de/la/imagen.png](https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png))
+![Logo Cayetano]([https://cayetano.edu.pe/wp-content/uploads/2024/01/logo-upch-ing-des.png))
