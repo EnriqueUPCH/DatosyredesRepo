@@ -45,7 +45,7 @@ Configura el nombre de dispositivo.
 Configura la interfaz VLAN y la puerta de enlace predeterminada.
 Prueba la conectividad entre PC-A y PC-B desde el switch.
 
-###¿Qué código se utiliza en la tabla de enrutamiento para indicar una red conectada directamente?
+### ¿Qué código se utiliza en la tabla de enrutamiento para indicar una red conectada directamente?
 El código utilizado es "C".
 ### ¿Cuántas entradas de ruta están codificadas con un código C en la tabla de enrutamiento?
 La cantidad de entradas de ruta con código C es 2.
