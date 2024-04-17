@@ -40,10 +40,15 @@ Habilita el enrutamiento IPv6.
 Configura el reloj.
 Prueba la conectividad entre PC-A y PC-B.
 
+![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/145bb236-6c44-4278-a758-a8bf3c1ab265)
+![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/bffcd705-2a1d-40ec-9b11-b14b7c64e8ce)
+
 ### Configuración del switch:
 Configura el nombre de dispositivo.
 Configura la interfaz VLAN y la puerta de enlace predeterminada.
 Prueba la conectividad entre PC-A y PC-B desde el switch.
+
+![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/0bcc35cd-239a-4f85-ba66-7fe9611ed00f)
 
 ### ¿Qué código se utiliza en la tabla de enrutamiento para indicar una red conectada directamente?
 El código utilizado es "C".
@@ -63,6 +68,13 @@ Se muestra en la dirección IP y la máscara de subred en formato CIDR.
 Muestra la tabla de enrutamiento en el router.
 Muestra información de la interfaz en el router.
 Muestra una lista de resumen de las interfaces en el router y el switch
+
+
+![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/6bb67e55-c2f5-441e-ac6e-a7beb6fb1999)
+![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/0471b35a-091e-467c-a94e-dfe631fcdb7c)
+
+![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/b59d7d98-f292-4190-8c87-8a1834cab005)
+
 
 1.	Si la interfaz G0/0/1 se mostrará administratively down, ¿qué comando de configuración de interfaz usaría para activar la interfaz? 
 
