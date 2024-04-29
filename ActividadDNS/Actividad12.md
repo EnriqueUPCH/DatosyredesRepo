@@ -44,5 +44,5 @@ En conclusión, para una red Ad Hoc donde los dispositivos no están conectados 
 
 El impacto en una red inalámbrica puede ser significativo y puede afectar negativamente su rendimiento. La interferencia co-canal ocurre cuando dos o más dispositivos transmiten en el mismo canal de frecuencia dentro del rango de alcance de un receptor, lo que puede causar interferencia y degradar la calidad de la señal
   
-                      ![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/67bf9096-b794-4866-8dd5-832063029ed0)
+![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/67bf9096-b794-4866-8dd5-832063029ed0)
 
