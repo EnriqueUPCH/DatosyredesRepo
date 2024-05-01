@@ -46,3 +46,35 @@ El impacto en una red inalámbrica puede ser significativo y puede afectar negat
   
 ![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/67bf9096-b794-4866-8dd5-832063029ed0)
 
+## Métodos de modulación para mitigar interferencia co-canal
+
+### FHSS (Frequency Hopping Spread Spectrum):
+
+ Este método cambia la frecuencia de
+transmisión según un patrón predefinido. Al saltar entre diferentes frecuencias, se reduce la
+interferencia y es más difícil para un atacante interceptar las transmisiones.
+
+### DSSS (Direct Sequence Spread Spectrum): 
+
+ Este método esparce la señal sobre un
+amplio rango de frecuencias usando códigos únicos para cada transmisión. Esto hace que
+la interferencia y el ruido sean menos impactantes.
+
+## Explicación del algoritmo
+###Retroceso Exponencial: 
+Si el canal está ocupado, el algoritmo espera un tiempo creciente
+basado en un factor exponencial. Esto reduce la probabilidad de colisiones.
+### Vector de Inicialización (IV): 
+Se usa para asegurar la transmisión. Es un valor aleatorio que
+se combina con la transmisión para agregar seguridad.
+Confirmación de Recepción (ACK): Después de transmitir, el dispositivo espera una
+confirmación del destinatario. Si no recibe confirmación, el proceso se reinicia con un tiempo
+de espera mayor.
+### Límite de Intentos: 
+Si se excede el número máximo de intentos, el algoritmo devuelve un
+mensaje de error indicando que la transmisión no fue exitosa.
+Esta estructura permite mejorar el período libre de contención en redes ad hoc inalámbricas,
+utilizando retroceso exponencial y mecanismos de confirmación para minimizar colisiones.
+La adición de vectores de inicialización aumenta la seguridad de las transmisiones en redes
+ad hoc.
+
