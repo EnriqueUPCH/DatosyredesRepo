@@ -35,14 +35,21 @@ y el sistema de correo electrónico debe manejar ambas de manera efectiva. Aquí
 considerando DHCP y NAT:
 
 1.Direcciones IP Dinámicas con DHCP:
+
 ●El servidor DHCP gestiona un rango de direcciones IP y asigna una dirección a cada dispositivo cuando se conecta.
+
 ●Para servidores SMTP e IMAP, es mejor usar direcciones IP estáticas para evitar problemas de conectividad cuando las direcciones cambian.
+
 2.Direcciones IP Estáticas:
+
 ●Se asignan manualmente y no cambian con el tiempo, proporcionando estabilidad para servidores críticos.
+
 ●Es preferible configurar direcciones IP estáticas para servidores SMTP e IMAP, asegurando que estén siempre accesibles para clientes.
 
 3.Uso de NAT en la Red:
+
 ●Si se usa NAT, debes configurar el reenvío de puertos para que el tráfico SMTP e IMAP llegue a los servidores correctos dentro de la red privada.
+
 ●Asegúrate de que las reglas de reenvío de puertos sean seguras para evitar problemas de seguridad.
 
 ![image](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/adb168cc-65ee-4e88-847f-f1fc0b017029)
