@@ -61,7 +61,7 @@ amplio rango de frecuencias usando códigos únicos para cada transmisión. Esto
 la interferencia y el ruido sean menos impactantes.
 
 ## Explicación del algoritmo
-###Retroceso Exponencial: 
+### Retroceso Exponencial: 
 Si el canal está ocupado, el algoritmo espera un tiempo creciente
 basado en un factor exponencial. Esto reduce la probabilidad de colisiones.
 ### Vector de Inicialización (IV): 
